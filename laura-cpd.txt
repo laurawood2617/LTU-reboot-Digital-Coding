@@ -17,3 +17,17 @@ The part I found hard was ...
 1.4 - 12/11/2020
 
 1.5 - 13/11/2020
+
+2.1 - 16/11/2020
+Today I learnt more about the workings of HTML, which stands for Hyper Text Markup Language. Thoroughout the lesson I was introduced to 
+    what tags are (such as <h1>, <p> etc.)
+    what tags do (they enable us to structure our webpage with headings and paragraphs as well as being able to give emphasis on certain words) 
+    how tags are nested within one another in the code to form the structure of a webpage and
+    what HTML elements are 
+    that they can be assigned value 
+    shown and created pages to practice how they fit together to make up a webpage - which works within the w3 rules-
+    shown and practiced how to make a page become structured to look something like a website that would be found on the internet.
+Interesting part of the day: I had no idea that, aside from the emphasis on words being emphasised on the page, they also change how a screen reader would say these words to convey a webpage to someone who is partially sighted so that the user can also understand how the webpage is structured. 
+I managed to use some of the shortcuts Luke suggested and these really helped me so that I didn't have to type too many complicated elements of the code and could focus on adding the content inbetween tags. 
+I enjoyed adding things to the task pages we made in our text editor and being able to see what these changes would look like in the webpages themselves.
+I struggled with a few spelling mistakes and making one of my html pages on Visual Studio code without adding the html tag but managed to resolve these issues mostly by deleting and trying again. 
