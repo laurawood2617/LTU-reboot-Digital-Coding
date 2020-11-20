@@ -1,0 +1,18 @@
+div{
+    width: 300px;
+    position: relative;
+}
+
+img{
+    width: 100%;
+}
+
+p{
+    position: absolute;
+    top: 5px;
+    color: blue;
+    background-color: burlywood;
+    padding: 5px;
+    border: 2px solid gold;
+    font-size: 15px;
+}
