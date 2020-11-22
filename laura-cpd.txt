@@ -25,7 +25,9 @@ I found it difficult to understand what libraries and frameworks were for a spec
 
 1.3 - 12/11/2020
 
+
 1.4 - 13/11/2020
+
 
 2.1 - 16/11/2020
 Today I learnt more about the workings of HTML, which stands for Hyper Text Markup Language. Thoroughout the lesson I was introduced to 
