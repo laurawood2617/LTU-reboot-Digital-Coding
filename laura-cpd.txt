@@ -1,22 +1,31 @@
-1.1 - 09/11/2020
+1.1 - 10/11/2020
 
 Reflection
 
-Today I learnt that the internet and the web are two different things. I also learnt that web design is an interesting and rewarding industry to get into. 
-
+Today I learnt that web design is an interesting and rewarding industry to get into. 
+I was introduced to the contents of the course and which languages we will be using and the other core skills I will be improving on over the next few weeks.
 I also introduced myself (via text chat) to the reboot group which was initially a difficult thing to do
+The part that I enjoyed the most was beginning to learn a new and enjoyable hobby. It was also really good to be shown up to date resources that I can use outside of the lessons to keep up with my coding and learning. 
+The part I found hard was getting my head around the new and different information I was being told. I am still unclear on some things, such as, exactly what a Front End and Back End web developer do. I do know that a Full Stack developer works both with the Front End and the Back End which is rare and this is why they are known as unicorns. I think I may be interested in both sides, but this may change as the course continues.   
 
-The part that I enjoyed the most...
+1.2 - 11/11/2020
+Today I learned more about the Internet and the Web. I learned that they are two completely different things. The Web is like a village made up of pages which are houses in that village. The Internet is what connects all of the houses together, like the roads between them, and these roads carry data, which can be compared to vehicles one the road. The data travels through the internet to the web so we can see the pages we want to see based on the search terms or address that we put into the address bar. I also learned that the Internet does many things in a very short space of time.
+I was given some useful sites so I can continue to learn exactly how the web and the internet work in my own time. 
+I was introduced to the programming languages we will be using and the rules that need to be followed to ensure that webpages are accessible to everyone and can be found. 
+Key terms
+    clients - mobile phones, tablets, laptops, desktops, basically anything that can connect to the internet. 
+    router - a special computer that can be linked to all the other computers in the house. It connects all of the computers in the house together without them all having to be connected to each other.
+    modem - connects your network to the outside world. It transforms the information into something that is readable by the telephone wires and vice versa so you can connect to other networks.
+    ISP - stands for Internet Service Provider. This is the company that manages their own set of routers so that you can connect to other networks, even by other ISPs, by going through your router, to your modem and then through your ISP routers to another ISP routers, to another computer.
+    IP address - is a unique set of numbers to a specific website
+    MAC address - is a unique number for a specific device. 
 
-The part I found hard was ...
+I enjoyed learning how the internet and the web worked as it was interesting to understand the process in detail. I also found it helpful that we reflected over what a front end and a back end developer were. I now understand that a front end developer works with the user interface and the appearance of a website, where as a back end developer works with the data and the mechanics of a webpage ensuring that everythign works in the background. 
+I found it difficult to understand what libraries and frameworks were for a specific programming language, but I will review the recording again to gain a better understanding. 
 
-1.2 - 10/11/2020
+1.3 - 12/11/2020
 
-1.3 - 11/11/2020
-
-1.4 - 12/11/2020
-
-1.5 - 13/11/2020
+1.4 - 13/11/2020
 
 2.1 - 16/11/2020
 Today I learnt more about the workings of HTML, which stands for Hyper Text Markup Language. Thoroughout the lesson I was introduced to 
@@ -31,3 +40,11 @@ Interesting part of the day: I had no idea that, aside from the emphasis on word
 I managed to use some of the shortcuts Luke suggested and these really helped me so that I didn't have to type too many complicated elements of the code and could focus on adding the content inbetween tags. 
 I enjoyed adding things to the task pages we made in our text editor and being able to see what these changes would look like in the webpages themselves.
 I struggled with a few spelling mistakes and making one of my html pages on Visual Studio code without adding the html tag but managed to resolve these issues mostly by deleting and trying again. 
+
+2.2 - 17/11/2020
+
+2.3 - 18/11/2020
+
+2.4 - 19/11/2020
+
+2.5 - 20/11/2020
