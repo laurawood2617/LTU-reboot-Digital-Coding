@@ -111,6 +111,7 @@ footer p {
         font-size: 12px;
         margin-top: 30px;
     }
+
     img{ 
         max-width: 100%;
     }
@@ -121,6 +122,11 @@ footer p {
     }
 
     .image1,
+    .image2,
+    .image3,
+    .image4,
+    .widerange {
+        margin-top: 50px;
         margin-bottom: 50px;
     }
 
@@ -133,4 +139,6 @@ footer p {
         margin: 0;
         width: 85%;
     }
+
+    
 }
