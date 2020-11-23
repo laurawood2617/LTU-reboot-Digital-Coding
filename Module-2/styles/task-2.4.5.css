@@ -7,3 +7,7 @@ float: left; width: 35%; height: 200px;
     border: 2px solid blueviolet;
     float: right; width: 63%; height: 400px;
 }
+
+p{ 
+    clear: both;
+}
