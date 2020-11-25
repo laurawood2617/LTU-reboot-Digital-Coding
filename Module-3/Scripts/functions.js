@@ -31,3 +31,20 @@ function nameAndAge (name, age) {
 }
 
 nameAndAge ('Laura', 23);
+
+//Returning a value
+//Return is a keyword
+
+function add (a,b) {
+    return a + b;
+}
+
+console.log(add (1,2));
+
+//You can use return in multiple variables and console.logs. It stored a value to give it back later on
+
+var twoPlusTwo = add (2,2);
+var onePlusTwo = add (1,2);
+
+console.log(onePlusTwo);
+console.log(twoPlusTwo);
