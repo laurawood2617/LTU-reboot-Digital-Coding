@@ -2,8 +2,11 @@ function fullname (firstName, lastName) {
     return( firstName + lastName);
 }
 
-fullname('Laura ', 'Wood');
+console.log (fullname('Laura ', 'Wood'));
 
-var personName = fullname {'James ', 'Bond'};
+var personName = fullname ('James ', 'Bond');
 
-var personName = fullname {'Jack ', 'Smith'}
+var personName1 = fullname ('Jack ', 'Smith');
+
+console.log (personName)
+console.log (personName1)
