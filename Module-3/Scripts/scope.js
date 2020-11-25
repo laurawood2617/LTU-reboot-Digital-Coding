@@ -4,3 +4,4 @@
 
 var globalScope = 'Global Scope';
 
+console. log (globalScope);
