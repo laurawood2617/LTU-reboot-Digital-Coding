@@ -1,5 +1,5 @@
-fucntion fullName (firstName , lastName) {
+function fullname (firstName , lastName) {
     console.log( firstName + lastName);
 }
 
-fullName('Laura ', 'Wood');
+fullname('Laura ', 'Wood');
