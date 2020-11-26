@@ -56,3 +56,16 @@ I struggled with a few spelling mistakes and making one of my html pages on Visu
 Finished off the end of last Fridays lesson which covered floating different elements of the page so that others wrap around them and clearing an element away from a certain are (or element) on the page. Today I started to create a project to show what I had learned so far. I enjoyed being able to start this from scratch and build up a proper page using the skills I have gained so far. I also expanded on my skill set by using fonts and links from libraries to our webpage. To be continued at 1pm 
 
 1:00-2:30pm
+
+3.2 - 24/11/2020
+09:30-11:30
+
+3.3 - 25/11/2020
+09:30-11:30
+This morning we started to look more in detail as to different components of JavaScript. The part I enjoyed most was being able to follow Luke in his coding as this helped me to think about the coding I was doing and remember it more effectively. I had some trouble with typos, but other than that I found the session challenging and interesting, which I enjoyed. 
+
+3.4 - 26/11/2020
+09:30-11:30
+I was introduced to loops, arrays and objects in JavaScript this morning. 
+At some points I found it difficult to write the code in the right order and I had trouble with remembering which brackets to use at differing points. 
+I really enjoyed learning about these different elements as I think this was where I was stuck before with my codecademy course so being able to listen to somebody explain all the different elements instead of reading them as it is easier to forget for me. I also found it enjoyable to look through my code and find my errors, believe it or not!
