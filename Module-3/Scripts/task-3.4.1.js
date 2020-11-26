@@ -1,3 +1,4 @@
+/* Using loops to list the 7 times table */
 for  (var i=1; i<=12; i++) {
     var number = i*7;
 
