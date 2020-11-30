@@ -69,3 +69,8 @@ This morning we started to look more in detail as to different components of Jav
 I was introduced to loops, arrays and objects in JavaScript this morning. 
 At some points I found it difficult to write the code in the right order and I had trouble with remembering which brackets to use at differing points. 
 I really enjoyed learning about these different elements as I think this was where I was stuck before with my codecademy course so being able to listen to somebody explain all the different elements instead of reading them as it is easier to forget for me. I also found it enjoyable to look through my code and find my errors, believe it or not!
+
+3.5 - 27/11/2020
+
+4.1 - 30/11/2020
+Today I was introduced to what a static site is, the pros and cons of a static site and how to generate a static site. I also learned how to use GitHub pages to generate a website in my GitHub account by using my text editor and GitHub. I found this really interesting and satisfying to find out how the skills I have used so far can be used on the Web, which was also revised today. 
