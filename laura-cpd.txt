@@ -74,3 +74,4 @@ I really enjoyed learning about these different elements as I think this was whe
 
 4.1 - 30/11/2020
 Today I was introduced to what a static site is, the pros and cons of a static site and how to generate a static site. I also learned how to use GitHub pages to generate a website in my GitHub account by using my text editor and GitHub. I found this really interesting and satisfying to find out how the skills I have used so far can be used on the Web, which was also revised today. 
+We created a Netlify account and linked it to GitHub to ensure that if GitHub went offline for any reason I would still be able to access my projects. I found this incredibly useful and invaluable to know about, but I have been struggling with getting used to all of the new programs. 
