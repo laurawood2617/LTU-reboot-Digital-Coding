@@ -81,3 +81,5 @@ Started learning about pseudocode today and how it can be used to explain in lay
 
 4.3 - 02/12/2020
 Went over different elements of Git, GitHub and how to collaborate on a project today. Luke created a project that we can all work on together to demonstrate our skills that we have learned over the past few weeks. It is great to see how the theory can be put into practice and to be able to work in a similar environment as what I would be doing if I decided to have a career in Web Development. I find it really inspiring to see how far I have come in such a short space of time, and I am impressed that I have been able to review my difficulties. I am aware that I will need to review bits and pieces in the future and keep contributing and working consistently to build up my skills, but it was really nice to get solid foundations in my hobby and to meet other people with similar interests. 
+
+Excited for the extra session tomorrow! 
